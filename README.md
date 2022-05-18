@@ -21,7 +21,7 @@ On the day you will be presented with a specification for what you will be expec
 
 These have some detail in, but there is an expectation that you will have a conversation with the 'product owner' about some details for the functionality and implementation.
 
-As you can see from the skeleton provided, you'll be asked to build a small React Typescript SPA . This application will make use of an existing API for creating and viewing invoices and payments.
+As you can see from the skeleton provided, you'll be asked to build a small React Typescript SPA. This application will make use of an existing API for creating and viewing invoices and payments.
 
 ## Assessment
 
